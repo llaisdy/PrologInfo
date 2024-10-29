@@ -1,0 +1,79 @@
+* Prolog Info -- the list
+** Overview
+
+A list of implementations of Prolog, and of related languages (Lambda Prolog, Datalog, and beyond), and related resources.  A work in progress!
+
+** Prolog
+*** Languages
+
+- [[https://ciao-lang.org/][Ciao Prolog]], "a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular."
+
+- [[https://github.com/rvirding/erlog][erlog]], a Prolog interpreter implemented in Erlang.
+
+- [[http://www.gprolog.org/][GNU Prolog]], GNU Prolog.
+
+- [[https://github.com/ichiban/prolog][Ichiban Prolog]], an embeddable ISO Prolog interpreter in Go.
+
+- [[http://www.jiprolog.com/][JIProlog]], "A Prolog interpreter, pure Java 100%, cross-platform and Open Source" ([[https://x.com/jiprolog][@jiprolog]])
+
+- [[https://logtalk.org/][Logtalk]], a declarative object-oriented logic programming language ([[https://x.com/LogtalkDotOrg][@LogtalkDotOrg]])
+
+- [[https://mercurylang.org/][Mercury]], "a logic/functional programming language." ([[https://x.com/MercuryLang][@MercuryLang]])
+
+- [[https://github.com/ptarau/natlog][Natlog]] is a lightweight Prolog-like system (implemented in Python) designed to smoothly interoperate with deep learning tools like PyTorch, JAX, GPT.
+
+- [[http://www.call-with-current-continuation.org/strand/strand.html][Strand]], a parallel Prolog dialect, described in "Strand: New Concepts for Parallel Programming", Ian Foster & Stephen Taylor (1990, Prentice-Hall).  See also Fleng (below).
+
+- [[https://www.scryer.pl/][Scryer Prolog]], an ISO Prolog implemented in Rust.
+
+- [[https://www.swi-prolog.org/][SWI-Prolog]], "Robust, mature, free. Prolog for the real world."
+
+- [[http://tau-prolog.org/][Tau Prolog]], An open source Prolog interpreter in JavaScript ([[https://x.com/tau_prolog][@tau_prolog]])
+
+- [[https://trealla-prolog.github.io/trealla/][Trealla Prolog]], a compact, efficient Prolog interpreter written in plain-old C
+
+- [[https://xsb.sourceforge.net/][XSB]], "a Logic Programming and Deductive Database system for Unix and Windows.."
+
+*** Resources
+
+- [[https://www.metalevel.at/prolog][The Power of Prolog]], online book introducing modern Prolog.
+
+** Lambda Prolog
+
+- [[https://github.com/LPCIC/elpi][ELPI]], Embeddable Lambda Prolog Interpreter: "implements a variant of λProlog enriched with Constraint Handling Rules"
+
+- [[https://teyjus.cs.umn.edu/][Teyjus]], a Lambda Prolog implementation
+
+** Datalog
+
+- [[https://harvardpl.github.io/AbcDatalog/][AbcDatalog]], Easy Datalog for research & pedagogy.
+
+- [[https://www.datomic.com][Datomic]], "The fully transactional, cloud-ready, distributed database"
+
+- [[https://eclair-lang.org/][Eclair]], "A lightning-fast logical query language for solving complex search- and graph-based problems."
+
+- [[https://souffle-lang.github.io/][Soufflé]], "Logic Defined Static Analysis"
+
+** Other Languages In The Area
+
+- [[https://s-arash.github.io/ascent/][Ascent]], a logic programming language (similar to Datalog) embedded in Rust via macros
+
+- [[https://potassco.org/][Clingo]], and the Potsdam Answer Set Solving Collection ([[https://x.com/potassco][@potassco]])
+
+- [[https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org/][Curry]], a truly integrated functional logic programming language
+
+- [[https://gitlab.com/b2495/fleng][Fleng]], a compiler for the concurrent logic programming languages FGHC, Strand, KL1 and PCN.
+
+- [[https://flix.dev/][Flix]], a principled functional, imperative, and logic programming language.
+
+- [[https://www.semanticscholar.org/paper/Logic-and-objects-%3A-language%2C-application-and-McCabe/13fbc4334f55ae3ce229f009f6ba255645b89906][Logic & Objects]] -- the class template language (F. McCabe PhD thesis, 1989).
+
+- [[https://logica.dev/][Logica]], a declarative logic programming language for data manipulation.
+
+- [[https://www.minizinc.org/][MiniZinc]], "a high-level constraint modelling language that allows you to easily express and solve discrete optimisation problems."
+
+- [[http://picat-lang.org/][Picat]], "a simple, and yet powerful, logic-based multi-paradigm programming language aimed for general-purpose applications."
+
+- [[https://github.com/logic-and-learning-lab/Popper][Popper]], An inductive logic programming system
+
+- [[https://github.com/harp-lab/slog-lang1][Slog]], a parallel logic programming engine with first-class facts/data.
