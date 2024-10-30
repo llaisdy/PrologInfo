@@ -54,6 +54,8 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 
 - [[https://eclair-lang.org/][Eclair]], "A lightning-fast logical query language for solving complex search- and graph-based problems."
 
+- [[https://harvardpl.github.io/formulog/][Formulog]], a "Datalog with support for SMT queries and first-order functional programming".
+
 - [[https://souffle-lang.github.io/][Soufflé]], "Logic Defined Static Analysis"
 
 ** Other Languages In The Area
