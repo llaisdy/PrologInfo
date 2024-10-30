@@ -12,6 +12,8 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 
 - [[http://www.gprolog.org/][GNU Prolog]], GNU Prolog.
 
+- [[https://www.complang.tuwien.ac.at/ulrich/gupu/][GUPU]], "Gesprächsunterstützende Programmierübungsumgebung" (an environment specialized for Prolog and constraint programming, at TU Wien).
+
 - [[https://github.com/ichiban/prolog][Ichiban Prolog]], an embeddable ISO Prolog interpreter in Go.
 
 - [[http://www.jiprolog.com/][JIProlog]], "A Prolog interpreter, pure Java 100%, cross-platform and Open Source" ([[https://x.com/jiprolog][@jiprolog]])
