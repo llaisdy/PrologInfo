@@ -50,25 +50,25 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 
 - [[https://harvardpl.github.io/AbcDatalog/][AbcDatalog]], Easy Datalog for research & pedagogy.
 
-- [[https://www.datomic.com][Datomic]], "The fully transactional, cloud-ready, distributed database"
-
-- [[https://eclair-lang.org/][Eclair]], "A lightning-fast logical query language for solving complex search- and graph-based problems."
-
-- [[https://harvardpl.github.io/formulog/][Formulog]], a "Datalog with support for SMT queries and first-order functional programming".
-
-- [[https://souffle-lang.github.io/][Soufflé]], "Logic Defined Static Analysis"
-
-- [[https://github.com/tonsky/datascript][DataScript]], Immutable database and Datalog query engine for Clojure, ClojureScript and JS.
-
 - [[https://github.com/cozodb/cozo][Cozo]], A transactional, relational-graph-vector database that uses Datalog for query.
 
 - [[https://github.com/replikativ/datahike][Datahike]], A fast, immutable, distributed & compositional Datalog engine for everyone.
 
-- [[https://github.com/vmware/differential-datalog][Differential Datalog]], DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes.
-
 - [[https://github.com/juji-io/datalevin][Datalevin]], A simple, fast and versatile Datalog database.
 
+- [[https://github.com/tonsky/datascript][DataScript]], Immutable database and Datalog query engine for Clojure, ClojureScript and JS.
+
+- [[https://www.datomic.com][Datomic]], "The fully transactional, cloud-ready, distributed database"
+
+- [[https://github.com/vmware/differential-datalog][Differential Datalog]], DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes.
+
+- [[https://eclair-lang.org/][Eclair]], "A lightning-fast logical query language for solving complex search- and graph-based problems."
+
 - [[https://github.com/eqlog/eqlog][Eqlog]], Datalog with equality for rust.
+
+- [[https://harvardpl.github.io/formulog/][Formulog]], a "Datalog with support for SMT queries and first-order functional programming".
+
+- [[https://souffle-lang.github.io/][Soufflé]], "Logic Defined Static Analysis"
 
 ** Other Languages In The Area
 
@@ -92,6 +92,6 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 
 - [[https://github.com/logic-and-learning-lab/Popper][Popper]], An inductive logic programming system
 
-- [[https://github.com/harp-lab/slog-lang1][Slog]], a parallel logic programming engine with first-class facts/data.
-
 - [[https://github.com/LukasZahradnik/PyNeuraLogic][PyNeuraLogic]], PyNeuraLogic lets you use Python to create Differentiable Logic Programs.
+
+- [[https://github.com/harp-lab/slog-lang1][Slog]], a parallel logic programming engine with first-class facts/data.
