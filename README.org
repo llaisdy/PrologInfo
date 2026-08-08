@@ -102,4 +102,6 @@ A list of implementations of Prolog, and of related languages (Lambda Prolog, Da
 
 - [[https://github.com/LukasZahradnik/PyNeuraLogic][PyNeuraLogic]], PyNeuraLogic lets you use Python to create Differentiable Logic Programs.
 
+- [[https://py-typedlogic.github.io/][PyTypedLogic]], a python package that wraps multiple logic engines, while specifying your logic programs in mypy-validated Python code.
+
 - [[https://github.com/harp-lab/slog-lang1][Slog]], a parallel logic programming engine with first-class facts/data.
